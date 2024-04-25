@@ -29,7 +29,7 @@ Struktur direktori proyek Airbnb Bangkok Analysis terlihat seperti ini:
                              dibuat dengan `pip freeze > requirements.txt
 
 ## URL Jupyter Notebook dan Tableau Public
-> [!Penting]
+> [!important]
 > Mengingat limitasi dari GitHub, data visualisai yang dibuat menggunakan Altair tidak dapat ditampilkan di repository. Untuk melihat hasil analisis di Jupyter Notebook beserta visualisasinya, silakan kunjungi [link berikut](https://nbviewer.org/github/Umamihsanil/Airbnb-Bangkok-Analysis/blob/main/src/Airbnb_Bangkok_Analysis.ipynb). Sebagai tambahan, project ini juga ditampilkan dalam bentuk dashboard di Tableau Public untuk pembaca dengan latar belakang yang lebih luas. Dashboard dapat diakses [di sini](https://public.tableau.com/shared/WWW8TNYSM?:display_count=n&:origin=viz_share_link).
 
 ## Kontribusi
